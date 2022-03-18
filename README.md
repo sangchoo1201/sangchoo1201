@@ -1,7 +1,26 @@
-# Hello, World!
-I'm Sangchoo1201!
+# 소개
+sangchoo1201은, 과학고를 다니는 평범한 정보과 학생입니다.
 
-<!---
-sangchoo1201/sangchoo1201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 깃헙 활동
+
+## 프로젝트
+[코드립랭(코랭)](https://github.com/sangchoo1201/kodrip-lang):  
+스트리머 케인인님의 밈을 이용해 만든 난해한? 프로그래밍 언어입니다.
+
+[betterf\*\*k](https://github.com/sangchoo1201/BetterFuck):  
+브레인퍽 코드를 만들어주는, 대응형 프로그래밍 언어입니다.
+
+[toggle.py](https://github.com/sangchoo1201/toggle.py):  
+모바일 퍼즐 게임 [toggle(플레이 스토어 링크)](https://play.google.com/store/apps/details?id=com.theo5970.newtoggle|Toggle)
+을 모방하여 만든 퍼즐 게임입니다.
+
+## 기여
+[엄랭](https://github.com/sangchoo1201/umjunsik-lang):  
+[rycont](https://github.com/rycont)님의
+[엄랭(원본)](https://github.com/rycont/umjunsik-lang)의 기여자입니다.
+python 구현체의 버그를 고치는 역할을 하였습니다.
+
+[어쩔랭](https://github.com/sangchoo1201/asserlang):  
+[chul0721](https://github.com/chul0721)님과 [sujang958](https://github.com/sujang958)님의
+[어쩔랭(원본)](https://github.com/assertive-lang/asserlang)의 기여자입니다.
+Interactive_Python3 구현체를 제작하였습니다.
