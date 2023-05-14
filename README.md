@@ -14,6 +14,9 @@ sangchoo1201은, 과학고를 다니는 평범한 정보과 학생입니다.
 모바일 퍼즐 게임 [toggle(플레이 스토어 링크)](https://play.google.com/store/apps/details?id=com.theo5970.newtoggle|Toggle)
 을 모방하여 만든 퍼즐 게임입니다.
 
+[taiji maker](https://github.com/sangchoo1201/taiji_maker):  
+스팀 퍼즐 게임 [Taiji](https://store.steampowered.com/app/1141580/Taiji/)의 퍼즐들을 직접 제작하고 플레이할 수 있도록 만든 게임입니다.
+
 ## 기여
 [엄랭](https://github.com/sangchoo1201/umjunsik-lang):  
 [rycont](https://github.com/rycont)님의
